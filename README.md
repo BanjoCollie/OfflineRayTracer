@@ -1,6 +1,8 @@
 # OfflineRayTracer
 An offline ray tracer written in C++
 
+See [here](https://creativerecurrence.wordpress.com/portfolio/offline-ray-tracing/) for examples of this program being used and some more information.
+
 Details of the scene are written in a .txt file and the program generates a .ppm file of the image. 
 Run it in the terminal with the input text file as an argument.
 
